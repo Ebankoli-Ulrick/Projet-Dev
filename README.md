@@ -1,1 +1,25 @@
-![image](https://github.com/user-attachments/assets/90d97c76-0cda-414d-9a1c-158e9294ce78)
+
+PROJET DEVOPS
+
+Installation et configuration de Docker et Kubernetes sur Debian
+ 
+ 
+ 
+ 
+
+Installation de Kubernetes sur Debian
+
+ 
+ 
+ 
+ 
+
+Conteneurisation de l’application web Flask
+ 
+ 
+ 
+ 
+ 
+
+Déploiement Kubernetes
+
